@@ -103,11 +103,16 @@ color: red;
 }
 
 /* Exercice 17 */
+.exercice17 input:checked+label{
 
+ color: red;
+    }
 
 /* Exercice 18 */
 
-
+.word .char:last-of-type{
+    color:#640101 ;
+}
 
 
 
